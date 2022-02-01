@@ -1,5 +1,5 @@
 {
-  "name": "Token-Data-API",
+  "name": "MoonDAO API",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noahniuwa/Token-Data-API.git"
+    "url": "git+https://github.com/Official-MoonDao/mooney_supply.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/noahniuwa/Token-Data-API/issues"
+    "url": "https://github.com/Official-MoonDao/mooney_supply/issues"
   },
-  "homepage": "https://github.com/noahniuwa/Token-Data-API#readme",
+  "homepage": "https://github.com/Official-MoonDao/mooney_supply#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "coingecko-api": "^1.0.10",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "express-rate-limit": "^5.1.3",
     "ko-sleep": "^1.0.3",
